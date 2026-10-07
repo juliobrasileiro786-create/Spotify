@@ -45,7 +45,7 @@ Topo
 [B]
  ↓
 [A]
-🛠️ Tecnologias
+Tecnologias
 C
 GCC
 Visual Studio Code
